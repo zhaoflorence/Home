@@ -1,0 +1,89 @@
+.navbar
+{
+	background-color: black;
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+.navbar a
+{
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.navbar a:hover 
+{
+    background-color: #ddd;
+    color: black;
+}
+.navbar a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+/*navigation bar for internal links are linked above.*/
+body
+{
+	background-color: beige;
+	font-family: trebuchet ms;
+}
+#bordercollie
+{
+	font-family: impact;
+	font-size: 40px;
+	text-align: center;	
+	margin-top: 0.5em;
+}
+#thehistory
+{
+	font-family: impact;
+	text-align: center;
+	color: olive	;
+}
+.para01
+{
+	margin-top: 1em;
+	margin-left: 10em;
+	margin-right: 10em;
+}
+.paramini
+{
+	margin-top: 1em;
+	margin-left: 28em;
+	margin-right: 28em;
+}
+.historyheader
+{
+	text-align: center;
+	color: darkkhaki;
+}
+#minihishead
+{
+	text-align: center;
+}
+.pho01
+{
+	margin-left: 2.5em;
+	margin-right: 2.5em;		
+	display: block;
+    margin: 0 auto;
+}
+#para02
+{
+	margin-top: 1em;
+	margin-left: 15em;
+	margin-right: 15em;
+}
+.center
+{
+	margin-left: 9.5em;
+}
+.centerlast
+{
+	margin-left: 9.5em;
+	margin-bottom: 5em;
+}

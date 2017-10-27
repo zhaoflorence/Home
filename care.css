@@ -1,0 +1,94 @@
+.navbar
+{
+	background-color: black;
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+.navbar a
+{
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.navbar a:hover 
+{
+    background-color: #ddd;
+    color: black;
+}
+.navbar a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+body
+{
+	background-color: beige;
+	font-family: trebuchet ms;
+}
+#bordercollie
+{
+	font-family: impact;
+	font-size: 40px;
+	text-align: center;	
+	margin-top: 0.5em;
+}
+#care101
+{
+	font-family: impact;
+	text-align: center;
+	color: olive;
+}
+.para01
+{
+	margin-top: 1em;
+	margin-left: 9em;
+	margin-right: 9em;
+}
+#para02
+{
+	margin-top: 1em;
+	margin-left: 7.5em;
+	margin-right: 7.5em;
+	margin-bottom: 5em;
+}
+
+.sectioncovering
+{
+	text-align: center;
+}
+#careheader
+{
+	text-align: center;
+	color: darkkhaki;
+}
+.careheader3
+{
+	text-align: left;
+	margin-left: 8em;
+	margin-right: 8em;
+}
+.list
+{
+	text-align: center;
+	margin-left: 40em;
+	margin-right: 42em;
+}
+.center
+{
+	margin-left: 15.5em;
+}
+.center02
+{
+	margin-left: 0.25em;
+	margin-right: 8em;
+}
+.center03
+{
+	margin-left: 19em;
+	margin-right: 18em;
+}

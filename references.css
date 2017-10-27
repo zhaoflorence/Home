@@ -1,0 +1,65 @@
+.navbar
+{
+	background-color: black;
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+.navbar a
+{
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.navbar a:hover 
+{
+    background-color: #ddd;
+    color: black;
+}
+.navbar a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+body
+{
+	background-color: beige;
+	font-family: trebuchet ms;
+}
+#bordercollie
+{
+	font-family: impact;
+	font-size: 40px;
+	text-align: center;	
+	margin-top: 0.5em;
+}
+#reference101
+{
+	font-family: impact;
+	text-align: center;
+	color: olive;
+}
+.referenceheader
+{
+	text-align: left;
+	color: darkkhaki;
+	margin-left: 6.5em;
+	margin-right: 4em;
+}
+.para01
+{
+	margin-top: 1em;
+	margin-left: 10em;
+	margin-right: 10em;
+}
+#para03
+{
+	margin-top: 1em;
+	margin-left: 10em;
+	margin-right: 10em;
+	margin-bottom: 6em;
+}

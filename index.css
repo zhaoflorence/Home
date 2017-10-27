@@ -1,0 +1,55 @@
+/*the first four declarations are the formattings for the bottom navigation bar.*/
+.navbar
+{
+	background-color: black;
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+.navbar a
+{
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+.navbar a:hover 
+{
+    background-color: #ddd;
+    color: black;
+}
+.navbar a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+/*I chose to use margins to help center the images at times.*/
+body
+{
+	background-color: beige;
+	margin-left: 2.5em;
+	margin-right: 1.5em;
+	margin-bottom: 5em;
+	font-family: trebuchet ms;
+}
+#bordercollie
+{
+	font-family: impact;
+	font-size: 50px;
+	text-align: center;	
+	margin-top: 0.5em;
+}
+#welcoming
+{
+	margin-left: 4em;
+	margin-right: 5em;
+	color: olive;
+}
+#para01
+{
+	margin-left: 6em;
+	margin-right: 7em;
+}
